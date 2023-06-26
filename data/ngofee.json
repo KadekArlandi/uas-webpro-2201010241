@@ -1,0 +1,128 @@
+
+    {
+        "menu": [
+    
+                {
+                    "kategori": "coffee",
+                    "nama": "Espresso",
+                    "deskripsi": "",
+                    "harga": "22.000,-",
+                    "gambar": "gambar/espresso.jpg"
+                },
+                        {
+                    "kategori": "coffee",
+                    "nama": "Americano",
+                    "deskripsi": "",
+                    "harga": "22.000,-",
+                    "gambar": "gambar/americano.jpg"
+                },
+                {
+                    "kategori": "coffee",
+                    "nama": "Cappucino",
+                    "deskripsi": "",
+                    "harga": "22.000,-",
+                    "gambar": "gambar/cappucino.jpg"
+                },
+                {
+                    "kategori": "coffee",
+                    "nama": "Latte Macchiato",
+                    "deskripsi": "",
+                    "harga": "22.000,-",
+                    "gambar": "gambar/latte_macchiato.jpg"
+                },
+                {
+                    "kategori": "food",
+                    "nama": "Nasi Goreng",
+                    "deskripsi": "Nasi goreng, dengan tambahan daging ayam.",
+                    "harga": "25.000,-",
+                    "gambar": "gambar/nasi_goreng.jpg"
+                },
+                {
+                    "kategori": "food",
+                    "nama": "Mie Goreng",
+                    "deskripsi": "Mie goreng berisi daging ayam dan telur.",
+                    "harga": "15.000,-",
+                    "gambar": "gambar/mie_goreng.jpg"
+                },
+                {
+                    "kategori": "food",
+                    "nama": "Burger",
+                    "deskripsi": "Burger berisi daging sapi cincang.",
+                    "harga": "25.000,-",
+                    "gambar": "gambar/burger.jpg"
+                },
+                {
+                    "kategori": "food",
+                    "nama": "Sosis Bakar",
+                    "deskripsi": "Sosis ayam yang dibakar.",
+                    "harga": "15.000,-",
+                    "gambar": "gambar/sosis_bakar.jpg"
+                },
+                {
+                    "kategori": "food",
+                    "nama": "Sate Lilit",
+                    "deskripsi": "Sate lilit ayam khas Bali.",
+                    "harga": "25.000,-",
+                    "gambar": "gambar/sate_lilit.jpg"
+                },
+                {
+                    "kategori": "food",
+                    "nama": "Onion Ring",
+                    "deskripsi": "Bawang bombai yang digoreng krispi.",
+                    "harga": "15.000,-",
+                    "gambar": "gambar/onion_ring.jpg"
+                },
+                {
+                    "kategori": "non-coffee",
+                    "nama": "Iced Chocolate",
+                    "deskripsi": "",
+                    "harga": "20.000,-",
+                    "gambar": "gambar/iced_chocolate.jpg"
+                },
+                {
+                    "kategori": "non-coffee",
+                    "nama": "Iced Matcha Latte",
+                    "deskripsi": "",
+                    "harga": "20.000,-",
+                    "gambar": "gambar/iced_matcha.jpg"
+                },
+
+                {
+                    "kategori": "non-coffee",
+                    "nama": "Milkshake with Brown Sugar",
+                    "deskripsi": "",
+                    "harga": "20.000,-",
+                    "gambar": "gambar/sugar_milkshake.jpg"
+                },
+                {
+                    "kategori": "non-coffee",
+                    "nama": "Oreo Milkshake",
+                    "deskripsi": "",
+                    "harga": "20.000,-",
+                    "gambar": "gambar/oreo_milkshake.jpg"
+                },
+                {
+                    "kategori": "non-coffee",
+                    "nama": "Tea Hot/Cool",
+                    "deskripsi": "",
+                    "harga": "12.000,-",
+                    "gambar": "gambar/tea.jpg"
+                },
+                {
+                    "kategori": "non-coffee",
+                    "nama": "Lemon Tea Hot/Cool",
+                    "deskripsi": "",
+                    "harga": "15.000,-",
+                    "gambar": "gambar/lemon_tea.jpg"
+                }
+
+
+
+
+                
+
+
+
+        ]
+    }
+

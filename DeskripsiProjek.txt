@@ -1,0 +1,10 @@
+KADEK ARLANDI MAHESA GAUTAMA PUTRA/2201010241/PW-U
+
+Selamat pagi/siang/sore/malam bapak dosen, 
+pada UAS Pemrograman Web kali ini, saya membuat program dengan menggunakan json dan java script, program ini saya buat yaitu daftar menu coffee shop, coffee shop ini saya beri nama Ngofee, di program menu coffee shop ini, terdapat beberapa pilihan menu navigasi seperti:
+1. menampilkan semua menu, 
+2. menampilkan menu coffee saja,
+3. menampilkan menu food,
+4. dan menampilkan menu non-coffee
+ide projek ini saya temukan di youtube
+ 
